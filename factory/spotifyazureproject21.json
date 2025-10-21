@@ -1,0 +1,9 @@
+{
+	"name": "spotifyazureproject21",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a681fa7-1124-4c82-ad9c-d9bb1f88db8c",
+		"tenantId": "35957f86-c1e6-42d9-ada4-a1938a7d8bbb"
+	}
+}
